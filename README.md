@@ -30,6 +30,7 @@ Atualmente, trabalho como Cientista de Dados na TransUnion, onde desenvolvo solu
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-FDEE21?style=flat-square&logo=Apache%20Spark&logoColor=black)
+![Git](https://img.shields.io/badge/Version%20Control-Git-blue)
 
 
 ---
