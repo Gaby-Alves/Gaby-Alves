@@ -17,6 +17,7 @@ Sou formada em **Economia** e possuo um **MBA em Data Science e Analytics**. Ten
 - XGBoost
 - Regressão logística
 - LightGBM
+
 Atualmente, trabalho como Cientista de Dados na TransUnion, onde desenvolvo soluções para score de crédito, análise de risco e detecção de fraudes.  
 
 ---
