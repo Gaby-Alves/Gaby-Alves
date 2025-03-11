@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 - 🔭 Cientista de Dados no setor de crédito
 - 💡 Especialista em Score de Crédito e Detecção de Fraudes
 - 🌱 Atualmente estou aprimorando meus conhecimentos em SQL e Python
+- 💬 Me pergunte sobre R
 - ⚡ Coisas que eu amo fazer:
   - Jogar jogos
   - Assistir animes e séries
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 Sobre mim  
-Sou formada em **Economia** e possuo um **MBA em Data Science e Analytics**. Tenho mais de **3 anos de experiência** no setor de crédito, desenvolvendo modelos de risco e fraude utilizando diversas técnicas como:
+Sou graduada em **Economia** e possuo um **MBA em Data Science e Analytics**. Tenho mais de **3 anos de experiência** no setor de crédito, desenvolvendo modelos de risco e fraude utilizando diversas técnicas como:
 - XGBoost
 - Regressão logística
 - LightGBM
