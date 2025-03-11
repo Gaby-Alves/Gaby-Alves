@@ -33,4 +33,7 @@ Atualmente, trabalho como Cientista de Dados na TransUnion, onde desenvolvo solu
 ![Git](https://img.shields.io/badge/Git-blue)
 
 
+---
+## 📊 GitHub Stats  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaby-Alves&layout=compact&theme=dark)
