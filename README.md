@@ -22,7 +22,9 @@ Atualmente, trabalho como Cientista de Dados na TransUnion, onde desenvolvo solu
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-alves-de-almeida/)
 
-📍 Me encontre no [LinkedIn](https://www.linkedin.com/in/gabriela-alves-de-almeida/)
+<a href="https://www.linkedin.com/in/gabriela-alves-de-almeida/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 ---
 
 ## 🔧 Languages and Tools  
